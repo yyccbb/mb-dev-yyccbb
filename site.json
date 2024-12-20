@@ -1,0 +1,31 @@
+{
+  "baseUrl": "/mb-dev-yyccbb",
+  "titlePrefix": "mb-dev-yyccbb",
+  "titleSuffix": "",
+  "ignore": [
+    "_markbind/layouts/*",
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md",
+    "*.njk",
+    ".git/*",
+    ".gitignore",
+    "node_modules/*"
+  ],
+  "pagesExclude": ["node_modules/*"],
+  "pages": [
+    {
+      "src": "index.md"
+    },
+    {
+      "glob": ["**/index.md", "**/*.md"]
+    },
+    {
+      "title": "Home"
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
