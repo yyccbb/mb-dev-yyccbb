@@ -1,9 +1,18 @@
 <frontmatter>
-  title: Topic 1
+  pageNav: 2
+  pageNavTitle: Test Title
 </frontmatter>
 
-<br>
+<page-nav-print />
 
-# Topic 1
+## Header 1
+This is a test
 
-> This is a placeholder page - more content to be added.
+### Header 2
+#r#This is a piece of text in red.##
+
+#v#This is a piece of text in violet.##
+
+### Header 2
+
+## Header 1_2
