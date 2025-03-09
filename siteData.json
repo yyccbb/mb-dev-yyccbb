@@ -8,12 +8,16 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/test-print.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/topic1.md",
       "headings": {
-        "header-1": "Header 1",
-        "header-2": "Header 2",
-        "header-2-2": "Header 2",
-        "header-1-2": "Header 1_2"
+        "header-lvl-1": "header lvl 1",
+        "header-1-2": "Header 1_2",
+        "test-header-lvl-3": "test header lvl 3"
       },
       "headingKeywords": {}
     },
@@ -21,7 +25,10 @@
       "src": "contents/topic2.md",
       "title": "Topic 2",
       "headings": {
-        "topic-2": "Topic 2"
+        "topic-2": "Topic 2",
+        "header-1": "Header 1",
+        "header-2": "Header 2",
+        "header-2-2": "Header 2"
       },
       "headingKeywords": {}
     },
