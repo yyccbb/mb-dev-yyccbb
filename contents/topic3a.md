@@ -6,4 +6,15 @@
 
 # Topic 3a
 
-> This is a placeholder page - more content to be added.
+<include src="codeAndOutput.md" boilerplate >
+<variable name="highlightStyle">html</variable>
+<variable name="code">
+<box>
+
+**This is some markdown**
+## heading 1
+</box>
+...
+<box><markdown>**This is some text wrapped in \<\/markdown\>.**</markdown></box>
+</variable>
+</include>

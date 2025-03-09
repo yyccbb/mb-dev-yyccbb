@@ -20,3 +20,9 @@ This is a test
 #v#This is a piece of text in violet.##
 
 ### Header 2
+
+<box>
+
+**Markdown**
+
+</box>
