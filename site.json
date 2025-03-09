@@ -2,6 +2,11 @@
   "baseUrl": "/mb-dev-yyccbb",
   "titlePrefix": "mb-dev-yyccbb",
   "titleSuffix": "",
+  "style": {
+    "bootstrapTheme": "bootswatch-minty",
+    "codeTheme": "light",
+    "codeLineNumbers": false
+  },
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",

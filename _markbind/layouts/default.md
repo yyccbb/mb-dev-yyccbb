@@ -10,6 +10,7 @@
     <dropdown header="Topic 3" class="nav-link">
       <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
       <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+      <li></li>
     </dropdown>
     <li slot="right">
       <form class="navbar-form">
@@ -32,6 +33,7 @@
 * Topic 3 :expanded:
   * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
   * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* [Test-print]({{baseUrl}}/contents/test-print.md)
       </site-nav>
     </div>
   </nav>
@@ -41,6 +43,7 @@
   </div>
   <nav id="page-nav">
     <div class="nav-component slim-scroll">
+      <markdown>#r#This is some red text.##</markdown>
       <page-nav />
     </div>
   </nav>
