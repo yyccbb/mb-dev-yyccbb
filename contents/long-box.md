@@ -1,13 +1,15 @@
 <frontmatter>
-  title: Topic 2
+  title: Long Box
 </frontmatter>
 
 <br>
 
 # Topic 2
 
-> This is a placeholder page - more content to be added.
+<box type="tip" seamless>
 
+If you are a new developer, you'll find it useful to read the first few sections below in the given order.
+</box>
 
 <page-nav-print>PAGENAV</page-nav-print>
 

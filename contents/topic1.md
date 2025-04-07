@@ -20,7 +20,7 @@ function checkForWrappingAndAddLineNumbers() {
 ```
 
 <div class="alt-java">
-<panel header="ABC" no-page-break>
+<panel header="ABC" expand-headerless>
 <table>
 <tbody>
 <tr><td valign="top">

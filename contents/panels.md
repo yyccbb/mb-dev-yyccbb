@@ -1,4 +1,4 @@
-<panel header="Which are unsafe practices?" expanded>
+<panel header="Which are unsafe practices?" peek>
 
 Which of these are unsafe coding practices?
 
@@ -45,7 +45,7 @@ Reason why [c] is not a bad practice: The extra variable helps to make the code 
 </panel>
 </panel>
 
-<panel header="Which are unsafe practices?" expand-headerless>
+<panel header="Which are unsafe practices?" expand-headerless no-page-break>
 
 Which of these are unsafe coding practices?
 
